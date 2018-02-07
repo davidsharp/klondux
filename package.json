@@ -1,0 +1,16 @@
+{
+  "name": "klondux",
+  "version": "0.0.0",
+  "description": "Klondike implementation in Redux",
+  "main": "index.js",
+  "repository": "https://github.com/davidsharp/klondux",
+  "author": "David Sharp <hello@davidsharp.codes>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-redux": "^5.0.6"
+  }
+}
